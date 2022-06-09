@@ -1,0 +1,5 @@
+# mac stufff
+.DS_Store
+
+# exclude PyCharm metadata
+.idea
