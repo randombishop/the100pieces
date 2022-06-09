@@ -46,3 +46,7 @@ We are inclined to neglect the search for the real meaning of life, to ignore th
 To reach them - that is the revolution.
 
 
+## Links
+
+* [open sea.](https://opensea.io/collection/the100pieces)
+
