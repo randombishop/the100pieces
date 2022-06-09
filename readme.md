@@ -22,7 +22,7 @@ In 1961, Manzoni created small cans titled Artist's Shit, and said it was a joke
 
 * Some people enjoyed the theme, and minted or received their first NFT from this collection.
 
-* Sent #99, Sympathy to the Devil, to ahopkins.eth.
+* Sent #99, Sympathy to the Devil, to Anthony Hopkins (ahopkins.eth)
 
 * Collection was flagged by Etherscan as SPAM, because "This token is reported to have been spammed to a large number of addresses. Please treat it with caution." Could be some performance art?
 
