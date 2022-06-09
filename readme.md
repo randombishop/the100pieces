@@ -34,6 +34,8 @@ In 1961, Manzoni created small cans titled Artist's Shit, and said it was a joke
 
 * The minting website was turned off, and the collection metadata and images moved to github, where they will live in a semi-decentralized mode.
 
+* This website is also hosted in github as the readme of [the100pieces repository.](https://github.com/randombishop/the100pieces)
+* 
 * All holders welcome to submit a PR if they would like to modify their NFT. (Please provide a cryptographic signature of the PR to prove that you own the NFT and that you are the author of the PR.)
 
 
@@ -59,4 +61,6 @@ To reach them - that is the revolution.
 * [discord](https://discord.com/invite/CmVmWV8K7h)
 
 * [etherscan](https://etherscan.io/address/0x6a2571da2307818c293912a71393203549ab5a0c)
+
+* [github](https://github.com/randombishop/the100pieces)
 
