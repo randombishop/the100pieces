@@ -22,15 +22,15 @@ In 1961, Manzoni created small cans titled Artist's Shit, and said it was a joke
 
 * Some people enjoyed the theme, and minted or received their first NFT from this collection.
 
-* Sent #99, Sympathy to the Devil, to Anthony Hopkins (ahopkins.eth)
+* Sent #99, Sympathy to the Devil, to Anthony Hopkins (ahopkins.eth); but he didn't like it and spent $2 in transaction fees to burn it.
 
-* Collection was flagged by Etherscan as SPAM, because "This token is reported to have been spammed to a large number of addresses. Please treat it with caution." Could be some performance art?
+* Collection was flagged by Etherscan as SPAM, because "This token is reported to have been spammed to a large number of addresses. Please treat it with caution." 
 
 * Total proceeds: 18 authentic mints * 0.04 = 0.72 ETH, all the rest of the collection was given away to friends or airdropped.
 
 * Total cost: about 1 Eth in transaction fees, plus a 0.1 Eth Chain Runner XR NFT to be given away.
 
-* After the collection minted out, a wallet holding 5 pieces and the prize was created. The first person who solves the riddles will be able to take possession of its contents.
+* After the collection minted out, a wallet holding 5 pieces and the prize was created. The first person who solved the riddles took possession of the prize, but left the pieces of shit there.
 
 * The minting website was turned off, and the collection metadata and images moved to github, where they will live in a semi-decentralized mode.
 
@@ -59,8 +59,6 @@ To reach them - that is the revolution.
 * [open sea](https://opensea.io/collection/the100pieces)
 
 * [twitter](https://twitter.com/the100pieces)
-
-* [discord](https://discord.com/invite/CmVmWV8K7h)
 
 * [etherscan](https://etherscan.io/address/0x6a2571da2307818c293912a71393203549ab5a0c)
 
