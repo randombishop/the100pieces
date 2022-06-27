@@ -38,8 +38,12 @@ In 1961, Manzoni created small cans titled Artist's Shit, and said it was a joke
 
 * All holders welcome to submit a PR if they would like to modify their NFT. (Please provide a cryptographic signature of the PR to prove that you own the NFT and that you are the author of the PR.)
 
+* Discord hasn't been very active, so we shut it down in June 2022. Didn't make screenshots of some fun moments in the beginning but the OGs will remember those. 
 
-## The Final Piece: Of Bears and Bulls
+
+## The Final Piece #100: Of Bears and Bulls
+
+![#100](./bears_bulls.png)
 
 In our narrow, confined existence, we tend to forget the essence of life...
 
@@ -52,6 +56,15 @@ We are inclined to neglect the search for the real meaning of life, to ignore th
 To reach them - that is the revolution.
 
 (Jean Jaurès)
+
+
+## Thanks
+
+Big thanks to all the friends who minted and supported this project, with special shout out to the Chain Runners community.
+
+It means a lot when you find people who support you even when you create shit. 
+
+No shit, that's true unconditional solidarity!
 
 
 ## Links
